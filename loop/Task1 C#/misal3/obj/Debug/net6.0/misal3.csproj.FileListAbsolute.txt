@@ -1,0 +1,15 @@
+C:\Users\Rahib\Desktop\webApp\misal3\bin\Debug\net6.0\misal3.exe
+C:\Users\Rahib\Desktop\webApp\misal3\bin\Debug\net6.0\misal3.deps.json
+C:\Users\Rahib\Desktop\webApp\misal3\bin\Debug\net6.0\misal3.runtimeconfig.json
+C:\Users\Rahib\Desktop\webApp\misal3\bin\Debug\net6.0\misal3.dll
+C:\Users\Rahib\Desktop\webApp\misal3\bin\Debug\net6.0\misal3.pdb
+C:\Users\Rahib\Desktop\webApp\misal3\obj\Debug\net6.0\misal3.csproj.AssemblyReference.cache
+C:\Users\Rahib\Desktop\webApp\misal3\obj\Debug\net6.0\misal3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rahib\Desktop\webApp\misal3\obj\Debug\net6.0\misal3.AssemblyInfoInputs.cache
+C:\Users\Rahib\Desktop\webApp\misal3\obj\Debug\net6.0\misal3.AssemblyInfo.cs
+C:\Users\Rahib\Desktop\webApp\misal3\obj\Debug\net6.0\misal3.csproj.CoreCompileInputs.cache
+C:\Users\Rahib\Desktop\webApp\misal3\obj\Debug\net6.0\misal3.dll
+C:\Users\Rahib\Desktop\webApp\misal3\obj\Debug\net6.0\refint\misal3.dll
+C:\Users\Rahib\Desktop\webApp\misal3\obj\Debug\net6.0\misal3.pdb
+C:\Users\Rahib\Desktop\webApp\misal3\obj\Debug\net6.0\misal3.genruntimeconfig.cache
+C:\Users\Rahib\Desktop\webApp\misal3\obj\Debug\net6.0\ref\misal3.dll
